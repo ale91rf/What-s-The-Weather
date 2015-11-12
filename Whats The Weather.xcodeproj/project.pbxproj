@@ -12,6 +12,7 @@
 		A99635411BF4E66F00855EE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A996353F1BF4E66F00855EE7 /* Main.storyboard */; };
 		A99635431BF4E66F00855EE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A99635421BF4E66F00855EE7 /* Assets.xcassets */; };
 		A99635461BF4E66F00855EE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A99635441BF4E66F00855EE7 /* LaunchScreen.storyboard */; };
+		A996354E1BF4E6C800855EE7 /* landscape.png in Resources */ = {isa = PBXBuildFile; fileRef = A996354D1BF4E6C800855EE7 /* landscape.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A99635421BF4E66F00855EE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A99635451BF4E66F00855EE7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A99635471BF4E66F00855EE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A996354D1BF4E6C800855EE7 /* landscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = landscape.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A996353B1BF4E66F00855EE7 /* AppDelegate.swift */,
 				A996353D1BF4E66F00855EE7 /* ViewController.swift */,
 				A996353F1BF4E66F00855EE7 /* Main.storyboard */,
+				A996354D1BF4E6C800855EE7 /* landscape.png */,
 				A99635421BF4E66F00855EE7 /* Assets.xcassets */,
 				A99635441BF4E66F00855EE7 /* LaunchScreen.storyboard */,
 				A99635471BF4E66F00855EE7 /* Info.plist */,
@@ -125,6 +128,7 @@
 				A99635461BF4E66F00855EE7 /* LaunchScreen.storyboard in Resources */,
 				A99635431BF4E66F00855EE7 /* Assets.xcassets in Resources */,
 				A99635411BF4E66F00855EE7 /* Main.storyboard in Resources */,
+				A996354E1BF4E6C800855EE7 /* landscape.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
